@@ -16,7 +16,7 @@ What follows is the skeleton README.md file.
 
 {library-desc}.
 
-[![Build Status](https://secure.travis-ci.org/nicmart/{library-name}.png?branch=master)](http://travis-ci.org/nicmart/GetLocalization)
+[![Build Status](https://secure.travis-ci.org/nicmart/{library-name}.png?branch=master)](http://travis-ci.org/nicmart/{library-name})
 
 ## Install
 

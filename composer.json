@@ -1,5 +1,5 @@
 {
-    "name": "nicmart/{library-name}",
+    "name": "nicmart/{library-name-slug}",
     "type": "library",
     "description": "{library-desc}",
     "keywords": [],

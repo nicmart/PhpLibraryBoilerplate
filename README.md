@@ -5,6 +5,7 @@ and a basic folder structure.
 
 There are few template variables I substitute with a "find and replace" each time I initialize the library. This variables are
 - {library-name} The name of the library
+- {library-name-slug} The sluggified version of library name, used in composer configuration
 - {library-desc} A brief descrption of what the library does
 - {library-namespace} The main library namespace. I usually set this equal to the camelized library name
 

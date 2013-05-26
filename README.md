@@ -28,7 +28,7 @@ Just create a composer.json file for your project:
 ```JSON
 {
     "require": {
-        "nicmart/{library-name}": "dev-master"
+        "nicmart/{library-name-slug}": "dev-master"
     }
 }
 ```

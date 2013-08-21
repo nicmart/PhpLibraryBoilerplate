@@ -14,10 +14,11 @@ Other values like library author name and email are hardcoded in the files.
 What follows is the skeleton README.md file.
 
 # {library-name}
+[![Build Status](https://travis-ci.org/nicmart/{library-name}.png?branch=master)](https://travis-ci.org/nicmart/{library-name})
+[![Coverage Status](https://coveralls.io/repos/nicmart/{library-name}/badge.png?branch=master)](https://coveralls.io/r/nicmart/{library-name}?branch=master)
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/nicmart/{library-name}/badges/quality-score.png?s=e06818508807c109a8c9354a73fc1a5227426c09)](https://scrutinizer-ci.com/g/nicmart/StringTemplate/)
 
 {library-desc}.
-
-[![Build Status](https://secure.travis-ci.org/nicmart/{library-name}.png?branch=master)](http://travis-ci.org/nicmart/{library-name})
 
 ## Install
 

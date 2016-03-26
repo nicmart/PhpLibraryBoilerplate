@@ -14,11 +14,16 @@
         "php": ">=5.4"
     },
     "require-dev": {
-        "satooshi/php-coveralls": "dev-master"
+        "satooshi/php-coveralls": "dev-master",
+	"phpunit/phpunit": "~4"
     },
     "autoload": {
         "psr-4": {
-            "{library-namespace}\\": "src/",
+            "{library-namespace}\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
             "{library-namespace}\\Test\\": "tests"
         }
     }
